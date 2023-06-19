@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+/*********************************** MY CSS *********************************************/
+
+.content{
+    border: 2px solid #282c34;
+    margin: 50px;
+    padding: 100px;
+    width: 700px;
+    height: 400px;
+    display: flexbox;
+    position: relative;
+    border-radius: 20px;
+    box-shadow: #282c34;
+}

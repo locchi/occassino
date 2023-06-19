@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify7f2d2caed8504-staging-185321-authRole",
+      "UnauthRoleArn": "arn:aws:iam::658562546732:role/amplify-amplify7f2d2caed8504-staging-185321-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::658562546732:role/amplify-amplify7f2d2caed8504-staging-185321-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplify7f2d2caed8504-staging-185321-deployment",
+      "UnauthRoleName": "amplify-amplify7f2d2caed8504-staging-185321-unauthRole",
+      "StackName": "amplify-amplify7f2d2caed8504-staging-185321",
+      "StackId": "arn:aws:cloudformation:us-east-1:658562546732:stack/amplify-amplify7f2d2caed8504-staging-185321/8fda3f30-0ed2-11ee-8ad8-0e7555d227cb",
+      "AmplifyAppId": "d1azoa4hgxok59"
+    },
+    "categories": {
+      "auth": {
+        "occassino": {}
+      }
+    }
+  }
+}
